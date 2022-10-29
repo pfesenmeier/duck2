@@ -1,2 +1,6 @@
-/target
+# rust frontend
+frontend/target
 Cargo.lock
+
+# cdk
+backend/node_modules
