@@ -21,6 +21,8 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-solutions-constructs/aws-lambda-sqs": "^2.26.0",
+    "@aws-solutions-constructs/aws-lambda-sqs-lambda": "^2.26.0",
     "aws-cdk-lib": "2.49.0",
     "constructs": "^10.0.0"
   },
